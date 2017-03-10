@@ -1,0 +1,9 @@
+TugasPosttest.TugasPraktikum$1
+TugasPosttest.TugasPraktikum$5
+TugasPosttest.TugasPraktikum$4
+TugasPosttest.TugasPraktikum$3
+TugasPosttest.TugasPraktikum
+TugasPosttest.TugasPraktikum$2
+TugasPosttest.TugasPraktikum$8
+TugasPosttest.TugasPraktikum$7
+TugasPosttest.TugasPraktikum$6
