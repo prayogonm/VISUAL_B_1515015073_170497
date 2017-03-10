@@ -9,12 +9,12 @@ package TugasPostTest2;
  *
  * @author Prayogo
  */
-public class TugasGanjilKTP2 extends javax.swing.JFrame {
+public class Tugas1 extends javax.swing.JFrame {
 String jk;
     /**
      * Creates new form TugasGanjilKTP2
      */
-    public TugasGanjilKTP2() {
+    public Tugas1() {
         initComponents();
     }
 
@@ -344,10 +344,8 @@ String jk;
                              "\nAgama                   : "+agama+
                              "\nstatus                   : "+status+
                              "\nperkerjaan                   : "+txtpekerjaan+
-                             "\nBerlaku Hingga                   : seumur hidup"+
-                             "\n\n                                  Kota Samarinda"+
-                             "\n                                    17-04-2017\n\n\n"+
-                             "                                           prayogo");
+                             "\nBerlaku Hingga                   : seumur hidup");
+                             
     }//GEN-LAST:event_jButton2ActionPerformed
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
@@ -361,6 +359,7 @@ String jk;
         kecamatan.setText("");
         jTextArea1.setText("");
         r1.clearSelection();
+        alamat.setText("");
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
@@ -385,20 +384,21 @@ String jk;
                 }
             }
         } catch (ClassNotFoundException ex) {
-            java.util.logging.Logger.getLogger(TugasGanjilKTP2.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(Tugas1.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (InstantiationException ex) {
-            java.util.logging.Logger.getLogger(TugasGanjilKTP2.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(Tugas1.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (IllegalAccessException ex) {
-            java.util.logging.Logger.getLogger(TugasGanjilKTP2.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(Tugas1.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (javax.swing.UnsupportedLookAndFeelException ex) {
-            java.util.logging.Logger.getLogger(TugasGanjilKTP2.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(Tugas1.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
+        //</editor-fold>
         //</editor-fold>
 
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new TugasGanjilKTP2().setVisible(true);
+                new Tugas1().setVisible(true);
             }
         });
     }
