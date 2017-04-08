@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author fajarkh
+ * @author Prayogo
  */
 public class Tugas1 extends javax.swing.JFrame {
 public double per;

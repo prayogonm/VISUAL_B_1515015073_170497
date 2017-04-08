@@ -7,7 +7,7 @@ package TugasPosttest1;
 
 /**
  *
- * @author RizkyKiwa
+ * @author Prayogo
  */
 public class Tugas1 extends javax.swing.JFrame {
 private double a,b,c ;

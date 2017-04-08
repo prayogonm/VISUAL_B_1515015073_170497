@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author RizkyKiwa
+ * @author Prayogo
  */
 public class Tugas2 extends javax.swing.JFrame {
 

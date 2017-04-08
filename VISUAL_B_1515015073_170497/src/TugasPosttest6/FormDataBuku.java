@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 /**
  *
- * @author Asus
+ * @author Prayogo
  */
 public class FormDataBuku extends javax.swing.JFrame {
 private DefaultTableModel model;
